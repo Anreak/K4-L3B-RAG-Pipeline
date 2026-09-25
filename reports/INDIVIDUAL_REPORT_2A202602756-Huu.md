@@ -4,7 +4,7 @@
 
 - Họ và tên: Nguyễn Quang Hữu
 - Mã học viên: 2A202602756
-- Nhóm: K4-L3B
+- Nhóm: Nhóm Một
 - Repository/branch: main
 
 ## Phần việc đã thực hiện
