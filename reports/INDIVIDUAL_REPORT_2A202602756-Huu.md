@@ -18,7 +18,7 @@
 | Pipeline & Fallback | Xây dựng pipeline kiểm tra cosine threshold 0.30 và fallback an toàn qua PageIndex | `src/task8_pageindex_vectorless.py`, `src/task9_retrieval_pipeline.py` | Done |
 | Generation & Citation | Đảo thứ tự chunks giảm lost-in-the-middle, kết nối Google Gemini API và cơ chế Safe Refusal | `src/task10_generation.py` | Done |
 | Giao diện Chatbot Streamlit | Xây dựng UI chat end-to-end, hiển thị câu trả lời kèm citation viewer, scores và nguồn gốc | `app.py` | Done |
-| Golden Dataset & A/B Evaluation | Soạn 16 cặp Q&A chuẩn thực tế và chạy thực nghiệm so sánh A/B giữa Dense-only và Hybrid RRF | `group_project/evaluation/golden_dataset.json`, `reports/RESULT.md` | Done |
+
 
 ## Quyết định kỹ thuật quan trọng
 
