@@ -19,7 +19,7 @@ CHROMA_DIR = Path(__file__).parent.parent / "chroma_db"
 
 # Giải thích lựa chọn tham số trong báo cáo nhóm.
 CHUNK_SIZE = 500
-CHUNK_OVERLAP = 50
+CHUNK_OVERLAP = 60
 CHUNKING_METHOD = "recursive"
 
 import os

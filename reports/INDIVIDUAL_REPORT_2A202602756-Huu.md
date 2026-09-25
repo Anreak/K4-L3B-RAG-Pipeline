@@ -12,8 +12,6 @@
 | Module/deliverable | Việc tôi trực tiếp làm | File/commit/PR | Trạng thái |
 |---|---|---|---|
 | Thu thập dữ liệu pháp lý & tin tức | Thu thập 3 tài liệu chính sách thuế, đăng ký hộ kinh doanh và crawl 5 bài viết chính sách mới nhất | `src/task1_collect_legal_docs.py`, `src/task2_crawl_news.py` | Done |
-| Chuẩn hóa dữ liệu sang Markdown | Sử dụng MarkItDown chuyển đổi tài liệu PDF/DOCX và JSON thành Markdown có metadata nguồn | `src/task3_convert_markdown.py` | Done |
-| Chunking, Embedding & ChromaDB | Phân đoạn tài liệu (size 500, overlap 50), nhúng vector tiếng Việt và lưu trữ vào ChromaDB | `src/task4_chunking_indexing.py` | Done |
 | Hybrid Retrieval & Reranking | Xây dựng Dense Search, BM25Okapi với cơ chế floor IDF và thuật toán Reciprocal Rank Fusion (RRF, k=60) | `src/task5_semantic_search.py`, `src/task6_lexical_search.py`, `src/task7_reranking.py` | Done |
 | Pipeline & Fallback | Xây dựng pipeline kiểm tra cosine threshold 0.30 và fallback an toàn qua PageIndex | `src/task8_pageindex_vectorless.py`, `src/task9_retrieval_pipeline.py` | Done |
 | Generation & Citation | Đảo thứ tự chunks giảm lost-in-the-middle, kết nối Google Gemini API và cơ chế Safe Refusal | `src/task10_generation.py` | Done |
