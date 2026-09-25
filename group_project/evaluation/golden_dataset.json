@@ -1,0 +1,82 @@
+[
+  {
+    "question": "Hộ kinh doanh là gì theo quy định tại Nghị định 01/2021/NĐ-CP?",
+    "expected_answer": "Hộ kinh doanh do một cá nhân hoặc các thành viên hộ gia đình đăng ký thành lập và chịu trách nhiệm bằng toàn bộ tài sản của mình đối với hoạt động kinh doanh của hộ.",
+    "expected_context": "Hộ kinh doanh do một cá nhân hoặc các thành viên hộ gia đình đăng ký thành lập và chịu trách nhiệm bằng toàn bộ tài sản của mình đối với hoạt động kinh doanh của hộ. Trường hợp các thành viên hộ gia đình đăng ký hộ kinh doanh thì ủy quyền cho một thành viên làm đại diện hộ kinh doanh."
+  },
+  {
+    "question": "Một cá nhân có được đồng thời làm chủ nhiều hộ kinh doanh không?",
+    "expected_answer": "Cá nhân, thành viên hộ gia đình chỉ được đăng ký một hộ kinh doanh trong phạm vi toàn quốc và được quyền góp vốn, mua cổ phần, mua phần vốn góp trong doanh nghiệp với tư cách cá nhân.",
+    "expected_context": "Cá nhân, thành viên hộ gia đình quy định tại khoản 1 Điều này chỉ được đăng ký một hộ kinh doanh trong phạm vi toàn quốc và được quyền góp vốn, mua cổ phần, mua phần vốn góp trong doanh nghiệp với tư cách cá nhân."
+  },
+  {
+    "question": "Hộ kinh doanh có được mở nhiều địa điểm kinh doanh ngoài trụ sở chính không?",
+    "expected_answer": "Theo Nghị định 01/2021/NĐ-CP, một hộ kinh doanh có thể hoạt động kinh doanh tại nhiều địa điểm nhưng phải chọn một địa điểm để đăng ký trụ sở hộ kinh doanh và phải thông báo cho Cơ quan quản lý thuế, cơ quan quản lý thị trường nơi tiến hành hoạt động kinh doanh đối với các địa điểm kinh doanh còn lại.",
+    "expected_context": "Một hộ kinh doanh có thể hoạt động kinh doanh tại nhiều địa điểm nhưng phải chọn một địa điểm để đăng ký trụ sở hộ kinh doanh và phải thông báo cho Cơ quan quản lý thuế, cơ quan quản lý thị trường nơi tiến hành hoạt động kinh doanh đối với các địa điểm kinh doanh còn lại."
+  },
+  {
+    "question": "Tên của hộ kinh doanh bao gồm những thành tố bắt buộc nào?",
+    "expected_answer": "Tên hộ kinh doanh bao gồm hai thành tố theo thứ tự: Cụm từ 'Hộ kinh doanh' và Tên riêng của hộ kinh doanh.",
+    "expected_context": "Tên hộ kinh doanh bao gồm hai thành tố theo thứ tự sau đây: a) Cụm từ 'Hộ kinh doanh'; b) Tên riêng của hộ kinh doanh. Tên riêng được viết bằng các chữ cái trong bảng chữ cái tiếng Việt, các chữ F, J, Z, W, có thể kèm theo chữ số, ký hiệu."
+  },
+  {
+    "question": "Khi tạm ngừng kinh doanh từ 30 ngày trở lên, hộ kinh doanh phải thông báo trước bao nhiêu ngày?",
+    "expected_answer": "Trường hợp tạm ngừng kinh doanh từ 30 ngày trở lên, hộ kinh doanh phải thông báo với Cơ quan đăng ký kinh doanh cấp huyện nơi đã đăng ký kinh doanh và Cơ quan thuế trực tiếp quản lý ít nhất 03 ngày làm việc trước khi tạm ngừng kinh doanh.",
+    "expected_context": "Trường hợp tạm ngừng kinh doanh từ 30 ngày trở lên, hộ kinh doanh phải thông báo với Cơ quan đăng ký kinh doanh cấp huyện nơi đã đăng ký kinh doanh và Cơ quan thuế trực tiếp quản lý ít nhất 03 ngày làm việc trước khi tạm ngừng kinh doanh."
+  },
+  {
+    "question": "Những loại thuế chủ yếu mà hộ kinh doanh, cá nhân kinh doanh phải nộp là gì?",
+    "expected_answer": "Hộ kinh doanh chủ yếu phải nộp thuế Giá trị gia tăng (GTGT), thuế Thu nhập cá nhân (TNCN) và Lệ phí môn bài theo quy định pháp luật.",
+    "expected_context": "Hộ kinh doanh, cá nhân kinh doanh nộp các loại thuế, lệ phí theo quy định: Lệ phí môn bài; Thuế giá trị gia tăng (GTGT); Thuế thu nhập cá nhân (TNCN) và các loại thuế, phí khác (nếu có)."
+  },
+  {
+    "question": "Ngưỡng doanh thu hàng năm để hộ kinh doanh không phải nộp thuế GTGT và TNCN là bao nhiêu?",
+    "expected_answer": "Hộ kinh doanh, cá nhân kinh doanh có doanh thu từ hoạt động sản xuất, kinh doanh trong năm dương lịch từ 100 triệu đồng trở xuống thì không phải nộp thuế GTGT và không phải nộp thuế TNCN.",
+    "expected_context": "Hộ kinh doanh, cá nhân kinh doanh có doanh thu từ hoạt động sản xuất, kinh doanh trong năm dương lịch từ 100 triệu đồng trở xuống thì thuộc trường hợp không phải nộp thuế GTGT và không phải nộp thuế TNCN theo quy định pháp luật về thuế GTGT và thuế TNCN."
+  },
+  {
+    "question": "Hộ kinh doanh nộp thuế theo phương pháp khoán xác định số thuế phải nộp như thế nào?",
+    "expected_answer": "Số thuế GTGT và TNCN phải nộp được xác định bằng Doanh thu tính thuế khoán nhân với Tỷ lệ phần trăm tính thuế trên doanh thu của ngành nghề tương ứng.",
+    "expected_context": "Số thuế GTGT phải nộp = Doanh thu tính thuế GTGT x Tỷ lệ thuế GTGT; Số thuế TNCN phải nộp = Doanh thu tính thuế TNCN x Tỷ lệ thuế TNCN. Tỷ lệ thuế tính trên doanh thu bao gồm tỷ lệ thuế GTGT và tỷ lệ thuế TNCN áp dụng chi tiết đối với từng lĩnh vực, ngành nghề."
+  },
+  {
+    "question": "Đối tượng hộ kinh doanh nào bắt buộc phải nộp thuế theo phương pháp kê khai?",
+    "expected_answer": "Phương pháp kê khai áp dụng đối với hộ kinh doanh quy mô lớn (doanh thu hoặc lao động đáp ứng tiêu chí cao nhất về quy mô doanh nghiệp siêu nhỏ) hoặc hộ kinh doanh chưa đáp ứng quy mô lớn nhưng tự nguyện lựa chọn nộp thuế theo phương pháp kê khai.",
+    "expected_context": "Phương pháp kê khai áp dụng đối với hộ kinh doanh, cá nhân kinh doanh quy mô lớn; và hộ kinh doanh, cá nhân kinh doanh chưa đáp ứng quy mô lớn nhưng lựa chọn nộp thuế theo phương pháp kê khai."
+  },
+  {
+    "question": "Hộ kinh doanh nộp thuế theo phương pháp kê khai có được sử dụng hóa đơn điện tử không?",
+    "expected_answer": "Hộ kinh doanh nộp thuế theo phương pháp kê khai phải thực hiện chế độ kế toán và sử dụng hóa đơn điện tử có mã của cơ quan thuế khi bán hàng hóa, cung cấp dịch vụ.",
+    "expected_context": "Hộ kinh doanh, cá nhân kinh doanh nộp thuế theo phương pháp kê khai thực hiện chế độ kế toán, hóa đơn, chứng từ. Hộ kinh doanh nộp thuế theo phương pháp kê khai sử dụng hóa đơn điện tử có mã của cơ quan thuế theo quy định tại Nghị định số 123/2020/NĐ-CP."
+  },
+  {
+    "question": "Thông tư 88/2021/TT-BTC quy định những loại chứng từ kế toán nào cho hộ kinh doanh?",
+    "expected_answer": "Thông tư 88/2021/TT-BTC quy định các mẫu chứng từ kế toán bao gồm: Phiếu thu, Phiếu chi, Phiếu nhập kho, Phiếu xuất kho, Bảng thanh toán tiền lương và các khoản thu nhập của người lao động.",
+    "expected_context": "Hệ thống chứng từ kế toán áp dụng cho hộ kinh doanh, cá nhân kinh doanh quy định tại Thông tư 88/2021/TT-BTC bao gồm: Phiếu thu (Mẫu 01-TT), Phiếu chi (Mẫu 02-TT), Phiếu nhập kho (Mẫu 01-VT), Phiếu xuất kho (Mẫu 02-VT), Bảng thanh toán tiền lương và các khoản thu nhập của người lao động (Mẫu 01-LĐTL)."
+  },
+  {
+    "question": "Hộ kinh doanh nộp thuế theo phương pháp kê khai phải mở những sổ kế toán nào theo Thông tư 88?",
+    "expected_answer": "Hộ kinh doanh mở các sổ kế toán gồm: Sổ chi tiết doanh thu bán hàng hóa, dịch vụ; Sổ chi tiết vật liệu, dụng cụ, sản phẩm, hàng hóa; Sổ chi phí sản xuất, kinh doanh; Sổ theo dõi tình hình thực hiện nghĩa vụ thuế với NSNN; Sổ theo dõi tình hình thanh toán tiền lương; Sổ quỹ tiền mặt và Sổ tiền gửi ngân hàng.",
+    "expected_context": "Các loại sổ kế toán quy định tại Thông tư 88/2021/TT-BTC gồm: Sổ chi tiết doanh thu bán hàng hóa dịch vụ (Mẫu S1-HKD), Sổ chi tiết vật liệu dụng cụ sản phẩm hàng hóa (Mẫu S2-HKD), Sổ chi phí sản xuất kinh doanh (Mẫu S3-HKD), Sổ theo dõi tình hình thực hiện nghĩa vụ thuế với NSNN (Mẫu S4-HKD), Sổ theo dõi tình hình thanh toán tiền lương (Mẫu S5-HKD), Sổ quỹ tiền mặt (Mẫu S6-HKD), Sổ tiền gửi ngân hàng (Mẫu S7-HKD)."
+  },
+  {
+    "question": "Thời hạn lưu trữ tài liệu kế toán của hộ kinh doanh là bao lâu?",
+    "expected_answer": "Tài liệu kế toán của hộ kinh doanh, cá nhân kinh doanh phải được lưu trữ tối thiểu 5 năm theo quy định của Luật Kế toán.",
+    "expected_context": "Tài liệu kế toán của hộ kinh doanh, cá nhân kinh doanh phải được bảo quản, lưu trữ an toàn. Thời hạn lưu trữ chứng từ kế toán, sổ kế toán và các tài liệu kế toán khác thực hiện theo quy định của pháp luật về kế toán tối thiểu là 5 năm."
+  },
+  {
+    "question": "Mục tiêu và đối tượng của đề xuất giảm 30% thuế cho hộ kinh doanh là gì?",
+    "expected_answer": "Đề xuất giảm 30% số thuế nhằm tiếp thêm nguồn lực hỗ trợ tiêu dùng, phục hồi kinh tế và chia sẻ khó khăn cho hộ kinh doanh, doanh nghiệp có quy mô doanh thu không quá 10 tỷ đồng.",
+    "expected_context": "Chính sách đề xuất giảm 30% thuế để tiếp thêm nguồn lực cho hộ kinh doanh và hỗ trợ tiêu dùng, áp dụng cho các hộ kinh doanh và doanh nghiệp có doanh thu không quá 10 tỷ đồng nhằm kích cầu kinh tế và tạo động lực phát triển."
+  },
+  {
+    "question": "Hộ kinh doanh có được chuyển đổi thành doanh nghiệp không và có được miễn lệ phí đăng ký không?",
+    "expected_answer": "Hộ kinh doanh có quyền đăng ký chuyển đổi thành doanh nghiệp theo quy định của Luật Hỗ trợ doanh nghiệp nhỏ và vừa và Nghị định 01/2021/NĐ-CP, đồng thời được miễn lệ phí đăng ký doanh nghiệp lần đầu.",
+    "expected_context": "Việc đăng ký thành lập doanh nghiệp trên cơ sở chuyển đổi từ hộ kinh doanh thực hiện theo quy định tại Nghị định 01/2021/NĐ-CP. Doanh nghiệp chuyển đổi từ hộ kinh doanh được miễn lệ phí đăng ký doanh nghiệp lần đầu theo quy định pháp luật."
+  },
+  {
+    "question": "Khi phát hiện hóa đơn điện tử đã lập có sai sót thì hộ kinh doanh xử lý như thế nào?",
+    "expected_answer": "Hộ kinh doanh xử lý hóa đơn điện tử sai sót bằng cách gửi thông báo hóa đơn điện tử có sai sót theo Mẫu số 04/SS-HĐĐT đến cơ quan thuế và thực hiện lập hóa đơn điều chỉnh hoặc hóa đơn thay thế gửi cho người mua.",
+    "expected_context": "Trường hợp người bán phát hiện hóa đơn điện tử đã được cấp mã của cơ quan thuế chưa gửi cho người mua có sai sót thì người bán thực hiện thông báo với cơ quan thuế theo Mẫu số 04/SS-HĐĐT về việc hủy hóa đơn và lập hóa đơn mới. Trường hợp đã gửi người mua thì lập hóa đơn điều chỉnh hoặc hóa đơn thay thế."
+  }
+]

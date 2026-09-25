@@ -43,7 +43,6 @@ async def crawl_article(url: str) -> dict:
             "date_crawled": datetime.now().isoformat(),
             "content_markdown": result.markdown,
         }
-    raise NotImplementedError("Implement crawl_article")
 
 
 async def crawl_all() -> None:

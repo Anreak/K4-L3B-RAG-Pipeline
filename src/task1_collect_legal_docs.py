@@ -30,22 +30,8 @@ def download_documents() -> None:
 
     sources = {
         "policy-a.pdf": "https://cdn.thuvienphapluat.vn/uploads/khoinghiep/2026/03/10/so-tay-huong-dan.pdf",
-    }
-    for filename, url in sources.items():
-        response = requests.get(url, timeout=30)
-        response.raise_for_status()
-        (DATA_DIR / filename).write_bytes(response.content)
-
-    sources = {
-        "policy-b.pdf": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2021/01/01nd.signed.pdf",
-    }
-    for filename, url in sources.items():
-        response = requests.get(url, timeout=30)
-        response.raise_for_status()
-        (DATA_DIR / filename).write_bytes(response.content)
-
-    sources = {
-        "policy-c.pdf": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2021/10/88-btc.pdf",
+        "policy-b.docx": "https://docs.google.com/document/d/1U_QwGL75Qp59TPCtsCUKLXYWgO1_mr-W/export?format=docx",
+        "policy-c.docx": "https://docs.google.com/document/d/1qT4pTbaVPcv4FlKEerIThXiMN3b2PhgC/export?format=docx",
     }
     for filename, url in sources.items():
         response = requests.get(url, timeout=30)
