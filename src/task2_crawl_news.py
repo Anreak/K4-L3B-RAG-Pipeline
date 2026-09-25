@@ -21,7 +21,6 @@ from pathlib import Path
 DATA_DIR = Path(__file__).parent.parent / "data" / "landing" / "news"
 
 ARTICLE_URLS = [
-    # TODO: Thêm ít nhất 5 public URL.
     "https://phapluat.gov.vn/legal-documents/df945730-accd-11f1-9a60-7d1fcc214eae?tabName=noidung",
     "https://phapluat.gov.vn/legal-documents/0e343320-a82e-11f1-b262-51fb030e2e1b?tabName=noidung",
     "https://phapluat.gov.vn/tin-tuc/chinh-sach-moi/giam-thue-30-de-tiep-them-nguon-luc-cho-ho-kinh-doanh-va-ho-tro-tieu-dung",
