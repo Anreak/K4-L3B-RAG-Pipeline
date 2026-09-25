@@ -25,19 +25,32 @@ def setup_directory() -> None:
 
 def download_documents() -> None:
     """Tải ít nhất 3 PDF/DOCX từ nguồn công khai."""
-    # TODO: Có thể tải thủ công hoặc dùng requests.
-    #
-    # Ví dụ:
-    # import requests
-    #
-    # sources = {
-    #     "policy-a.pdf": "https://example.edu/policy-a.pdf",
-    # }
-    # for filename, url in sources.items():
-    #     response = requests.get(url, timeout=30)
-    #     response.raise_for_status()
-    #     (DATA_DIR / filename).write_bytes(response.content)
-    raise NotImplementedError("Implement download_documents")
+
+    import requests
+
+    sources = {
+        "policy-a.pdf": "https://cdn.thuvienphapluat.vn/uploads/khoinghiep/2026/03/10/so-tay-huong-dan.pdf",
+    }
+    for filename, url in sources.items():
+        response = requests.get(url, timeout=30)
+        response.raise_for_status()
+        (DATA_DIR / filename).write_bytes(response.content)
+
+    sources = {
+        "policy-b.pdf": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2021/01/01nd.signed.pdf",
+    }
+    for filename, url in sources.items():
+        response = requests.get(url, timeout=30)
+        response.raise_for_status()
+        (DATA_DIR / filename).write_bytes(response.content)
+
+    sources = {
+        "policy-c.pdf": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2021/10/88-btc.pdf",
+    }
+    for filename, url in sources.items():
+        response = requests.get(url, timeout=30)
+        response.raise_for_status()
+        (DATA_DIR / filename).write_bytes(response.content)
 
 
 if __name__ == "__main__":
